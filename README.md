@@ -1,3 +1,3 @@
 # scy_fingerprint_test
 
-V1
+V2
